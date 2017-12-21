@@ -1,4 +1,4 @@
-#this code is for autonomous control, need to modify it for our purpose
+#this code is for testing
 
 import numpy as np
 from RPIO import PWM
